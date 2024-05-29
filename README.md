@@ -72,7 +72,8 @@ Starring the repo, forking the repo, cloning the forked repo locally on my PC, c
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
 - ![GitHub Remote URL](images/project-screeshot.png)
-
+                        Images/Screenshot from 2024-05-29 10-18-51.png
+                        Images/Screenshot from 2024-05-29 10-20-50.png
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
 ## Conclusion:
