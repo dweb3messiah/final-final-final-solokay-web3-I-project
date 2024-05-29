@@ -81,6 +81,8 @@ Make sure the URL of the remote in your screenshot matches the URL of your GitHu
 
 Remember, to earn your certificate, you must complete this project satisfactorily. Your submission will be reviewed, and you will receive feedback accordingly. Good luck!
 
+I GIDEON OKORIE, completed my project for AI-Enhance Web3/Blockchain Development 101 Course" at dProgramming University (dPU) to qualify for a certificate of completion" 
+
 Solomon Foskaay
 
 Founder,
