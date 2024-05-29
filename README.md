@@ -71,8 +71,8 @@ Starring the repo, forking the repo, cloning the forked repo locally on my PC, c
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
--  ![First-screenshot](Images/Screenshot from 2024-05-29 10-18-51.png)
-![Second-screenshot](Images/Screenshot from 2024-05-29 10-20-50.png)
+-  ![First-screenshot](https://github.com/dweb3messiah/final-final-final-solokay-web3-I-project/blob/Gideon-Okorie/Images/Screenshot%20from%202024-05-29%2010-18-51.png)
+- ![Second-screenshot](https://github.com/dweb3messiah/final-final-final-solokay-web3-I-project/blob/Gideon-Okorie/Images/Screenshot%20from%202024-05-29%2010-20-50.png)
 
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
